@@ -1,11 +1,8 @@
-
-
-
 #!/bin/bash
 
 
 THRESHOLD=4
-EMAIL="sandrasabu5087@gmail.com"
+EMAIL="your-email@example.com"
 ALERTS=""
 HOST=$(hostname)
 
